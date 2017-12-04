@@ -1,0 +1,1 @@
+Build solution, extract data.zip to bin/debug folder, then run executable.
